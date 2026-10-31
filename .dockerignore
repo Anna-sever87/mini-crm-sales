@@ -1,0 +1,12 @@
+.git
+.venv
+__pycache__
+.secrets
+.env
+config.local.json
+token*.json
+token*.pickle
+client_secret*.json
+credentials*.json
+data
+.checks

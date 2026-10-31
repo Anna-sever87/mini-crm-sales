@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.secrets/
+.env
+config.local.json
+token*.json
+token*.pickle
+client_secret*.json
+credentials*.json
+data/
+*.log
+.checks/
